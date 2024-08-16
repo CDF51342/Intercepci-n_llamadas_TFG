@@ -1,0 +1,2 @@
+La primera y segunda linea son saltadas por lseek.
+La función write escribe a partir de la 3 linea.
